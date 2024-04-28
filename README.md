@@ -237,8 +237,7 @@ We saw some documentation about welding thin layers of plastic together, this co
 
 ### Results 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4wOu6fuJIXA?si=m6qcqSXZ-u1mANN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+Get a look to the final video!! https://youtu.be/4wOu6fuJIXA?si=g6gmlxdxuT4FpQ5Q 
 
 
 #### **Links and Refs:**
