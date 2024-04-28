@@ -1,6 +1,27 @@
-# Soft Robotics
+# Digital Prototyping: 
 
-keywords: pneumatics, pneubotics, expansion, contraction, movement, inflation, deflation, programmed feedback, kinetics, actuators, chambers, patterns, bending, shaping, environments, air, flow, gas, foam, fluid, relationships, haptics, muscles, arms, skin, touch, feel, softness, silicones, bio-silicones, bio-mimetics
+ 
+    
+    INFO:
+  
+    FACULTY: Josep Marti, Santi Fuentemilla    
+
+    CALENDAR: 17-01 → ...
+
+    TRACK: Application
+
+
+
+### Introduction
+
+This seminar is based on the framework of [FabAcademy’s ](https://fabacademy.org/)programme, a fast paced, hands-on learning experience where participants learn rapid-prototyping by planning and executing a new project each week. Here we had the chance to experiment with different prototyping techniques to pursue our own vision.
+
+# Laser Cut & Biomaterials: Having fun with Soft Robotics!
+
+***keywords:*** pneumatics, pneubotics, expansion, contraction, movement, inflation, deflation, programmed feedback, kinetics, actuators, chambers, patterns, bending, shaping, environments, air, flow, gas, foam, fluid, relationships, haptics, muscles, arms, skin, touch, feel, softness, silicones, bio-silicones, bio-mimetics
+
+    INFO:
+     "Team" Annna Lozano & Nicolò Baldi @hoyes.lunesdelentejas w/ @niente
 
 ## What is Soft Robotics?
 Subfield of robotics, that integrates compliant materials, soft and flexible, instead of rigid and stiff ones, into its fabrication. This difference in materiality is what allows the parts and links of robots, and by that, their functioning and purpose, to act and perform in different environments, handling things with great care, and by that, bringing them closer to human interaction.
@@ -107,10 +128,13 @@ We add a bit of spirulina pigment to give a touch of color to the sample.
 
 ![IMG_6920 Large](https://hackmd.io/_uploads/SJijQZhYT.jpg)
 
-We found this recipe in the documentation from a previous Fabacademy student (), which used this combination to create bio-based soft robots. We recreated it in different varieties and it proved to be exceptional for the scope. As we did for the Agar agar recipe, we let the material dry on different materials: an acrylic mould, a sheet of acrylic with a very thin layer of textile and on textile.
+We found this recipe in the documentation from a previous Fabacademy student (), which used this combination to create bio-based soft robots. We recreated it in different varieties and it proved to be exceptional for the scope. 
+As we did for the Agar agar recipe, we let the material dry on different materials: an acrylic mould, a sheet of acrylic with a very thin layer of textile and on textile.
 
 Acrylic Mould: This proved to be the most flexible and versatile, also the material didn’t shrink in the mould.
+
 Acrylic + Textile: This was impossible to take away from the textile because of the thin thickness of the material, so it eventually remained embedded to it.
+
 Textile: This one turn out very resistent, but not very flexible. It might me good for other applications though.
 
 
@@ -123,7 +147,7 @@ Textile: This one turn out very resistent, but not very flexible. It might me go
 - We have noticed a difference in the result of the biomaterial depending on the base on which we let it rest. We have let it rest on textile and on acrylic.
 
 
-#### 3 option : Agar agar 
+#### 3 Option : Agar Agar Based
 Water 300ml 
 Agar agar 10g 
 Gycrerol 
@@ -169,7 +193,9 @@ We first tried with a mould, leaving some space on the inside to let the air inf
 *small samples of Agar Agar and Amaya's recipe.*
 
 
+![DP06](https://github.com/annnalozano/Biomaterial-SoftRobotic/assets/143884501/226359a4-eee6-4274-beae-1c2cf0dc9f5d)
 
+![DP05](https://github.com/annnalozano/Biomaterial-SoftRobotic/assets/143884501/e0909033-f115-4dd0-bbb8-d334eb6a4ace)
 
 
 
@@ -184,6 +210,8 @@ Comments: Even tough the other layer was a bit too thick, and the thin one was n
 
 
 
+![image](https://hackmd.io/_uploads/Hy3vCe3WA.png)
+
 
 
 ![Screenshot 2024-01-31 at 10.21.37](https://hackmd.io/_uploads/B1puuoDc6.png)
@@ -196,7 +224,7 @@ Steps:
 Comments: It works better , also there are some parts where the air escapes but not as much.
 
 
-- ### Welding: 
+- ### Laser Welding: 
 
 ![IMG_7239](https://hackmd.io/_uploads/SJJH6-6qa.jpg)
 
@@ -207,8 +235,10 @@ We saw some documentation about welding thin layers of plastic together, this co
 
 *Comments*: After some attempts, we realized how the technique has potential but needs a lot of time and attention to find the correct equilibrium in between parameters in action. We think that maybe an appropriate research on the field could be interesting and we may try that again soon. Also, the focus parameter is probably the most important, since the width of the light beam really influenced the outcome of the eperiments.
 
+### Results 
 
----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4wOu6fuJIXA?si=m6qcqSXZ-u1mANN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 #### **Links and Refs:**
@@ -224,4 +254,5 @@ https://class.textile-academy.org/classes/2023-24/week12/
 
 https://fablabbcn-projects.gitlab.io/learning/educational-
 docs/mdef/classes/biomaterials/ 
+
 
